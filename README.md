@@ -46,7 +46,7 @@ I'm passionate about understanding how networks work, how data travels across th
 
 ## ⚽🎷 Fun Fact 
 
-outside of tech, I love **football**, **jazz music** and **researching** new topics. You'll often find me with a match on, a jazz record playing, or deep in a rabbit hole of research.
+Outside of Tech, I love **football**, **jazz music** and **researching** new topics. You'll often find me with a match on, a jazz record playing, or deep in a rabbit hole of research.
 
 
 ## 📫 How to Reach Me
