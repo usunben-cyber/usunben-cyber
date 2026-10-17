@@ -24,6 +24,6 @@ Outside of tech, I love football, jazz music and researching new topics. You'll 
 
 📫 How to Reach Me
 LinkedIn: Connect with me on LinkedIn
-Email: usunben@gmail.com
+Email: usunben@yahoo.com
 
 I'm always happy to connect, share ideas and learn from others in the networking and cybersecurity community. Feel free to get in touch!
