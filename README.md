@@ -12,15 +12,21 @@ I'm passionate about understanding how networks work, how data travels across th
 -**IP addressing**
  -**Subnetting**
  -**Traffic analysis**
+**
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools 
 
-- **Networking:** Cisco Packet Tracer, IP addressing, subnetting
-- **Traffic analysis:** Wireshark
-- **Operating systems:** Windows, Kali Linux
-- **Website design:** creating clean, user-friendly and easy-to-navigate websites
-- **SEO optimization:** improving site structure and content so pages are easier to find in search engines
-- **Focus areas:** IT systems support, cybersecurity 
+
+-**Networking:** Cisco Packet Tracer, IP addressing, subnetting 
+
+-**Traffic analysis:** Wireshark 
+
+-**Operating systems:** Windows, Kali Linux, MacOS
+ 
+-**Website design: **Creating clean, user-friendly and easy-to-navigate websites
+
+-**SEO optimization: **improving site structure and content so pages are easier to find in search engines
+-**Focus areas:** IT systems support, cybersecurity, 
 ## 🚀 Projects
 
 
@@ -44,6 +50,7 @@ outside of tech, I love **football**, **jazz music** and **researching** new top
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/usunobun-osawaru-3691b082)
-- **Email:** usunben@yahoo.com I'm always happy to connect, share ideas and learn from others in the networking and cybersecurity community. Feel free to get in touch!
+ -**LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/usunobun-osawaru-3691b082)
+ -**Email:** usunben@yahoo.com I'm always happy to connect, share ideas and learn from others in the networking and cybersecurity community. Feel free to get in touch!
+
 
