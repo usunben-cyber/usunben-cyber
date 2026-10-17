@@ -13,16 +13,14 @@ I'm passionate about understanding how networks work, how data travels across th
  -**Subnetting**
  -**Traffic analysis**
 
-## 🛠️ Skills & Tools 
+## 🛠️ Skills & Tools
 
-
--**Networking:** Cisco Packet Tracer, IP addressing, subnetting 
-
--**Traffic analysis:** Wireshark 
-
--**Operating systems:** Windows, Kali Linux, MacOS
- 
--**Focus areas:** IT systems support, cybersecurity, 
+- **Networking:** Cisco Packet Tracer, IP addressing, subnetting
+- **Traffic analysis:** Wireshark
+- **Operating systems:** Windows, Kali Linux
+- **Website design:** creating clean, user-friendly and easy-to-navigate websites
+- **SEO optimization:** improving site structure and content so pages are easier to find in search engines
+- **Focus areas:** IT systems support, cybersecurity 
 ## 🚀 Projects
 
 
