@@ -12,7 +12,7 @@ I'm passionate about understanding how networks work, how data travels across th
 -**IP addressing**
  -**Subnetting**
  -**Traffic analysis**
-**
+
 
 ## 🛠️ Skills & Tools 
 
@@ -23,9 +23,9 @@ I'm passionate about understanding how networks work, how data travels across th
 
 -**Operating systems:** Windows, Kali Linux, MacOS
  
--**Website design: **Creating clean, user-friendly and easy-to-navigate websites
+-**Website design:** Creating clean, user-friendly and easy-to-navigate websites
 
--**SEO optimization: **improving site structure and content so pages are easier to find in search engines
+-**SEO optimization:** improving site structure and content so pages are easier to find in search engines
 -**Focus areas:** IT systems support, cybersecurity, 
 ## 🚀 Projects
 
@@ -52,5 +52,6 @@ outside of tech, I love **football**, **jazz music** and **researching** new top
 
  -**LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/usunobun-osawaru-3691b082)
  -**Email:** usunben@yahoo.com I'm always happy to connect, share ideas and learn from others in the networking and cybersecurity community. Feel free to get in touch!
+
 
 
