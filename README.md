@@ -12,7 +12,6 @@ I'm passionate about understanding how networks work, how data travels across th
 -**IP addressing**
  -**Subnetting**
  -**Traffic analysis**
-**
 
 ## 🛠️ Skills & Tools 
 
