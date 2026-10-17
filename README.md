@@ -26,6 +26,7 @@ I'm passionate about understanding how networks work, how data travels across th
 -**Website design:** Creating clean, user-friendly and easy-to-navigate websites
 
 -**SEO optimization:** improving site structure and content so pages are easier to find in search engines
+
 -**Focus areas:** IT systems support, cybersecurity, 
 ## 🚀 Projects
 
