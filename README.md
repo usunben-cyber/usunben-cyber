@@ -51,7 +51,7 @@ Outside of Tech, I love **football**, **jazz music** and **researching** new top
 
 ## 📫 How to Reach Me
 
- -**LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/usunobun-osawaru-3691b082)
+ -**LinkedIn:** www.linkedin.com/in/usunobun-osawaru-3691b082
  -**Email:** usunben@yahoo.com I'm always happy to connect, share ideas and learn from others in the networking and cybersecurity community. Feel free to get in touch!
 
 
