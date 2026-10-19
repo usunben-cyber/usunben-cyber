@@ -27,7 +27,7 @@ I'm passionate about understanding how networks work, how data travels across th
 
 -**SEO optimization:** improving site structure and content so pages are easier to find in search engines
 
--**Focus areas:** IT systems support, Networking, cybersecurity, 
+-**Focus areas:** IT systems support, Networking, Cybersecurity, 
 ## 🚀 Projects
 
 
